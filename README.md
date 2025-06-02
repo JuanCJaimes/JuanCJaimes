@@ -17,6 +17,16 @@ I had the opportunity to take a Bootcamp with TripleTen where I developed skills
 - Continuous Improvement
 - Multidisciplinary Collaboration
 
+## 🧰 QA Tools and Technologies I Use
+
+- 🔍 **Postman** – API testing with automation and scripting.
+- 🧪 **Selenium** – Web UI test automation.
+- 🐞 **Jira** – Bug tracking and agile task management.
+- 💾 **SQL** – Backend data validation via queries.
+- 📄 **Excel / Google Docs** – Test plans, reports, and documentation.
+- ⚙️ **Git & GitHub** – Version control and project repositories.
+
+
 #### Where to find me
 
 - [LinkedIn](www.linkedin.com/in/juan-camilo-jaimes-mora)
